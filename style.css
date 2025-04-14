@@ -1,7 +1,31 @@
-h1{
-    color: rgb(209, 55, 55);
+header * {
+    padding: 1px;
+    border: 2px solid blue;
+    margin: 1px;
 }
-i{
-    font-size: 20px;
-    justify-content: center;
+
+
+
+h1 {
+    color: rgb(209, 55, 55);
+    grind
+}
+
+i {
+    font-size: 20px
+}
+
+/* estilos al header */
+
+
+.cont-titulo-redes {
+    grid-template-areas: ;
+
+}
+
+.logo {
+    display: flex;
+    align-items: start;
+    
+
 }
