@@ -1,31 +1,65 @@
 header * {
     padding: 1px;
-    border: 2px solid blue;
+    border: 1px solid blue;
     margin: 1px;
 }
 
 
 
 h1 {
-    color: rgb(209, 55, 55);
-    grind
+    color: rgb(245, 242, 242);
+
 }
 
 i {
-    font-size: 20px
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 /* estilos al header */
 
 
 .cont-titulo-redes {
-    grid-template-areas: ;
-
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(173, 54, 54);
 }
 
 .logo {
-    display: flex;
-    align-items: start;
-    
+    width: 150px;
+    background-color: rgb(75, 74, 74)
+}
 
+.imagen {
+    width: 100%;
+    background-color: rgb(75, 74, 74);
+
+}
+
+.redes {
+    width: 25%;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+.pag {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(18, 228, 200);
+}
+
+.icono {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    
+    
 }
