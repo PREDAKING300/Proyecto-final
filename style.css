@@ -63,3 +63,44 @@ i {
     
     
 }
+/* estilos a h2 */
+.intro{
+    font-size: 18px;
+   text-align: center;
+   display: inline-block;
+/*   background-color: rgb(8, 190, 47); */
+    
+}
+.intro2{
+    
+ 
+}
+.seccion1{
+   
+   
+}
+
+.clases{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+    background-color: black;
+    
+}
+.representacion{
+    width:350px ;
+     
+}
+.text{
+    color: aliceblue;
+|   font-family:Arial, sans serif;
+}
+.pie{
+    background-color: rgb(132, 135, 138);
+}
+.sec-clases{
+    display: flex;
+    justify-content: space-around;
+    background-color: brown;
+}
